@@ -7,7 +7,7 @@ body {
     background: #6c63ff;
     display: grid;
     place-items: center;
-    height: 100vh;
+    height: 150vh;
     margin: 0;
     font-family: "Open Sans", sans-serif;
     color: #fff;
@@ -16,7 +16,7 @@ body {
 .card {
     background: #fdfdfd;
     border-radius: 4px;
-    height: 85vh;
+    height: 130vh;
     width: 80vw;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
     text-align: center;
@@ -34,7 +34,7 @@ body {
     .card img.birthday {
         width: 100%;
         max-width: 50vw;
-        max-height: 80vw;
+        max-height: unset;
     }
 }
 
@@ -45,7 +45,7 @@ body {
     .card img.birthday {
         width: 100%;
         max-width: 50vw;
-        max-height: ;
+        max-height: unset;
     }
 }
 
